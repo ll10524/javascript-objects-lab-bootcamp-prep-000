@@ -1,4 +1,4 @@
-var recioes = {
+var recipes = {
   key: 'value';
 };
 
